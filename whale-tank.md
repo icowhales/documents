@@ -2,6 +2,8 @@
 
 ![Whale Tank Meme](https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/19895092_10155400392677660_1252980598480399489_n.jpg?oh=9fa51e7b616380d201577368a8cd260a&oe=59FBBE44)
 
+[chat room](https://gitter.im/whaletank/Lobby#)
+
 Peer to peer startups pitch their projects to a group of cryptocurrency experts. The audience invests in the ICOs.
 
 ## Finances
@@ -22,6 +24,8 @@ Costs will be 99% personnel. There should be 3-5 whales, and a production team o
 
 These represent verbal commitments only, so far! No formal relationship or sponsorship is claimed.
 
+### Whale (candidates)
+
 ##### Ira Miller
 
 [![](https://anarchapulco.com/wp-content/uploads/2017/02/MILLER-IRA-7-e1486598228854.jpg)](https://iramiller.com)
@@ -40,6 +44,16 @@ These represent verbal commitments only, so far! No formal relationship or spons
 
 [![Will Pangman](https://fs.bitcoinmagazine.com/img/images/profiles-bitcoin-outreach-will-pangman.width-800.jpg)](https://bitcoinmagazine.com/articles/profiles-bitcoin-outreach-will-pangman-1401257335/)
 
-##### Credits
+### Operations Team
 
- + Aldo Antinori - "Whale Tank" name and meme
+##### Aldo Antinori
+
+"Whale Tank" name and meme
+
+![Aldo Antinori](https://files.gitter.im/whaletank/Lobby/fMKe/2622b6c.jpg)
+
+##### Randy Hilarski
+
+Marketing
+
+![Randy Hilarski](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/0e1/04a/1d65cff.jpg)
