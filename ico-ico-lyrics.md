@@ -1,6 +1,6 @@
 # Ico, Ico
 bko, Iko](https://www.youtube.com/watch?v=0wNSHPQj0W8)' by The Dixie Cups_
-_Adaptation by Ira Millr_
+_Adaptation by Ira Miller_
 
 My banker and your banker were sit-tin' by the fire.
 My banker told your grand-ma: "I'm gon-na set your cash on fire."
